@@ -1,105 +1,105 @@
 Lobby,Lift,Apartment,Notes
-Lobby 1,Lift 8.1,8.1.01,
-Lobby 1,Lift 8.2,8.1.06,
-Lobby 1,Lift 8.2,8.1.07,
-Lobby 1,Lift 8.3,8.1.16,
-Lobby 1,Lift 8.3,8.1.17,
-Lobby 1,Lift 8.4,8.1.27,
-Lobby 1,Lift 8.4,8.1.28,
-Lobby 1,Lift 8.5,8.1.36,
-Lobby 1,Lift 8.5,8.1.37,S*
-Lobby 1,Lift 9.2,9.1.05,
-Lobby 1,Lift 9.2,9.1.06,
-Lobby 1,Lift 9.2,9.1.07,
-Lobby 1,Lift 9.3,9.1.16,D
-Lobby 1,Lift 9.3,9.1.17,
-Lobby 1,Lift 9.3,9.1.18,
-Lobby 1,Lift 9.4,9.1.27,D
-Lobby 1,Lift 9.4,9.1.28,S*
-Lobby 1,Lift 9.4,9.1.29,
-Lobby 1,Lift 9.5,9.1.38,D
-Lobby 1,Lift 9.5,9.1.39,
-Lobby 1,Lift 9.5,9.1.40,
-Lobby 1,Lift 9.6,9.1.49,D
-Lobby 1,Lift 9.6,9.1.50,
-Lobby 1,Lift 9.6,9.1.51,
-Lobby 2,Lift 8.1,8.2.02,
-Lobby 2,Lift 8.2,8.2.08,D
-Lobby 2,Lift 8.2,8.2.09,_
-Lobby 2,Lift 8.3,8.1.18,D
-Lobby 2,Lift 8.3,8.2.19,_
-Lobby 2,Lift 8.4,8.1.26,D
-Lobby 2,Lift 8.4,8.2.29,
-Lobby 2,Lift 8.5,8.2.38,
-Lobby 2,Lift 8.5,8.2.39,
-Lobby 2,Lift 9.1,9.2.01,
-Lobby 2,Lift 9.2,9.2.08,_
-Lobby 2,Lift 9.2,9.2.09,_
-Lobby 2,Lift 9.3,9.2.19,
-Lobby 2,Lift 9.3,9.2.20,
-Lobby 2,Lift 9.4,9.2.30,
-Lobby 2,Lift 9.4,9.2.31,_
-Lobby 2,Lift 9.5,9.2.41,_
-Lobby 2,Lift 9.5,9.2.42,_
-Lobby 2,Lift 9.6,9.2.52,_
-Lobby 2,Lift 9.6,9.2.53,
-Lobby 3,Lift 8.1,8.3.03,_
-Lobby 3,Lift 8.2,8.3.10,
-Lobby 3,Lift 8.2,8.3.11,_
-Lobby 3,Lift 8.3,8.3.20,_
-Lobby 3,Lift 8.3,8.3.21,
-Lobby 3,Lift 8.4,8.3.30,
-Lobby 3,Lift 8.4,8.3.31,_
-Lobby 3,Lift 8.5,8.3.40,_
-Lobby 3,Lift 8.5,8.3.41,_
-Lobby 3,Lift 9.1,9.3.02,
-Lobby 3,Lift 9.2,9.3.10,
-Lobby 3,Lift 9.2,9.3.11,
-Lobby 3,Lift 9.3,9.3.21,_
-Lobby 3,Lift 9.3,9.3.22,
-Lobby 3,Lift 9.4,9.3.32,_
-Lobby 3,Lift 9.4,9.3.33,_
-Lobby 3,Lift 9.5,9.3.43,
-Lobby 3,Lift 9.5,9.3.44,
-Lobby 3,Lift 9.6,9.3.54,_
-Lobby 3,Lift 9.6,9.3.55,
-Lobby 4,Lift 8.1,8.4.04,
-Lobby 4,Lift 8.2,8.4.12,_
-Lobby 4,Lift 8.2,8.4.13,_
-Lobby 4,Lift 8.3,8.4.22,
-Lobby 4,Lift 8.3,8.4.23,
-Lobby 4,Lift 8.4,8.4.32,
-Lobby 4,Lift 8.4,8.4.33,_
-Lobby 4,Lift 8.5,8.4.42,_
-Lobby 4,Lift 8.5,8.4.43,
-Lobby 4,Lift 9.1,9.4.03,_
-Lobby 4,Lift 9.2,9.4.12,
-Lobby 4,Lift 9.2,9.4.13,_
-Lobby 4,Lift 9.3,9.4.23,
-Lobby 4,Lift 9.3,9.4.24,_
-Lobby 4,Lift 9.4,9.4.34,
-Lobby 4,Lift 9.4,9.4.35,
-Lobby 4,Lift 9.5,9.4.45,
-Lobby 4,Lift 9.5,9.4.46,
-Lobby 4,Lift 9.6,9.4.56,
-Lobby 4,Lift 9.6,9.4.57,
-Lobby 5,Lift 8.1,8.5.05,_
-Lobby 5,Lift 8.2,8.5.14,_
-Lobby 5,Lift 8.2,8.5.15,
-Lobby 5,Lift 8.3,8.5.24,_
-Lobby 5,Lift 8.3,8.5.25,_
-Lobby 5,Lift 8.4,8.5.34,_
-Lobby 5,Lift 8.4,8.5.35,
-Lobby 5,Lift 8.5,8.5.44,
-Lobby 5,Lift 8.5,8.5.45,
-Lobby 5,Lift 9.1,9.5.04,
-Lobby 5,Lift 9.2,9.5.14,_
-Lobby 5,Lift 9.2,9.5.15,_
-Lobby 5,Lift 9.3,9.5.25,_
-Lobby 5,Lift 9.3,9.5.26,_
-Lobby 5,Lift 9.4,9.5.36,_
-Lobby 5,Lift 9.4,9.5.37,_
-Lobby 5,Lift 9.5,9.5.47,_
-Lobby 5,Lift 9.5,9.5.48,_
-Lobby 5,Lift 9.6,9.5.58,
-Lobby 5,Lift 9.6,9.5.59,_
+Lobby 1,Lift 9.3,9.1.16,Double Store packages and Deliver if requested
+Lobby 1,Lift 9.4,9.1.27,Double Store packages and Deliver if requested
+Lobby 1,Lift 9.5,9.1.38,Double Store packages and Deliver if requested
+Lobby 1,Lift 9.6,9.1.49,Double Store packages and Deliver if requested
+Lobby 1,Lift 8.5,8.1.37,Store packages and Deliver if requested
+Lobby 1,Lift 9.4,9.1.28,Store packages and Deliver if requested
+Lobby 1,Lift 8.1,8.1.01,Store package and send notification
+Lobby 1,Lift 8.2,8.1.06,Store package and send notification
+Lobby 1,Lift 8.2,8.1.07,Store package and send notification
+Lobby 1,Lift 8.3,8.1.16,Store package and send notification
+Lobby 1,Lift 8.3,8.1.17,Store package and send notification
+Lobby 1,Lift 8.4,8.1.27,Store package and send notification
+Lobby 1,Lift 8.4,8.1.28,Store package and send notification
+Lobby 1,Lift 8.5,8.1.36,Store package and send notification
+Lobby 1,Lift 9.2,9.1.05,Store package and send notification
+Lobby 1,Lift 9.2,9.1.06,Store package and send notification
+Lobby 1,Lift 9.2,9.1.07,Store package and send notification
+Lobby 1,Lift 9.3,9.1.17,Store package and send notification
+Lobby 1,Lift 9.3,9.1.18,Store package and send notification
+Lobby 1,Lift 9.4,9.1.29,Store package and send notification
+Lobby 1,Lift 9.5,9.1.39,Store package and send notification
+Lobby 1,Lift 9.5,9.1.40,Store package and send notification
+Lobby 1,Lift 9.6,9.1.50,Store package and send notification
+Lobby 1,Lift 9.6,9.1.51,Store package and send notification
+Lobby 2,Lift 8.2,8.2.09,Deliver to Door
+Lobby 2,Lift 8.3,8.2.19,Deliver to Door
+Lobby 2,Lift 9.2,9.2.08,Deliver to Door
+Lobby 2,Lift 9.2,9.2.09,Deliver to Door
+Lobby 2,Lift 9.4,9.2.31,Deliver to Door
+Lobby 2,Lift 9.5,9.2.41,Deliver to Door
+Lobby 2,Lift 9.5,9.2.42,Deliver to Door
+Lobby 2,Lift 9.6,9.2.52,Deliver to Door
+Lobby 2,Lift 8.2,8.2.08,Double Store packages and Deliver if requested
+Lobby 2,Lift 8.3,8.1.18,Double Store packages and Deliver if requested
+Lobby 2,Lift 8.4,8.1.26,Double Store packages and Deliver if requested
+Lobby 2,Lift 8.1,8.2.02,Store package and send notification
+Lobby 2,Lift 8.4,8.2.29,Store package and send notification
+Lobby 2,Lift 8.5,8.2.38,Store package and send notification
+Lobby 2,Lift 8.5,8.2.39,Store package and send notification
+Lobby 2,Lift 9.1,9.2.01,Store package and send notification
+Lobby 2,Lift 9.3,9.2.19,Store package and send notification
+Lobby 2,Lift 9.3,9.2.20,Store package and send notification
+Lobby 2,Lift 9.4,9.2.30,Store package and send notification
+Lobby 2,Lift 9.6,9.2.53,Store package and send notification
+Lobby 3,Lift 8.1,8.3.03,Deliver to Door
+Lobby 3,Lift 8.2,8.3.11,Deliver to Door
+Lobby 3,Lift 8.3,8.3.20,Deliver to Door
+Lobby 3,Lift 8.4,8.3.31,Deliver to Door
+Lobby 3,Lift 8.5,8.3.40,Deliver to Door
+Lobby 3,Lift 8.5,8.3.41,Deliver to Door
+Lobby 3,Lift 9.3,9.3.21,Deliver to Door
+Lobby 3,Lift 9.4,9.3.32,Deliver to Door
+Lobby 3,Lift 9.4,9.3.33,Deliver to Door
+Lobby 3,Lift 9.6,9.3.54,Deliver to Door
+Lobby 3,Lift 8.2,8.3.10,Store package and send notification
+Lobby 3,Lift 8.3,8.3.21,Store package and send notification
+Lobby 3,Lift 8.4,8.3.30,Store package and send notification
+Lobby 3,Lift 9.1,9.3.02,Store package and send notification
+Lobby 3,Lift 9.2,9.3.10,Store package and send notification
+Lobby 3,Lift 9.2,9.3.11,Store package and send notification
+Lobby 3,Lift 9.3,9.3.22,Store package and send notification
+Lobby 3,Lift 9.5,9.3.43,Store package and send notification
+Lobby 3,Lift 9.5,9.3.44,Store package and send notification
+Lobby 3,Lift 9.6,9.3.55,Store package and send notification
+Lobby 4,Lift 8.2,8.4.12,Deliver to Door
+Lobby 4,Lift 8.2,8.4.13,Deliver to Door
+Lobby 4,Lift 8.4,8.4.33,Deliver to Door
+Lobby 4,Lift 8.5,8.4.42,Deliver to Door
+Lobby 4,Lift 9.1,9.4.03,Deliver to Door
+Lobby 4,Lift 9.2,9.4.13,Deliver to Door
+Lobby 4,Lift 9.3,9.4.24,Deliver to Door
+Lobby 4,Lift 8.1,8.4.04,Store package and send notification
+Lobby 4,Lift 8.3,8.4.22,Store package and send notification
+Lobby 4,Lift 8.3,8.4.23,Store package and send notification
+Lobby 4,Lift 8.4,8.4.32,Store package and send notification
+Lobby 4,Lift 8.5,8.4.43,Store package and send notification
+Lobby 4,Lift 9.2,9.4.12,Store package and send notification
+Lobby 4,Lift 9.3,9.4.23,Store package and send notification
+Lobby 4,Lift 9.4,9.4.34,Store package and send notification
+Lobby 4,Lift 9.4,9.4.35,Store package and send notification
+Lobby 4,Lift 9.5,9.4.45,Store package and send notification
+Lobby 4,Lift 9.5,9.4.46,Store package and send notification
+Lobby 4,Lift 9.6,9.4.56,Store package and send notification
+Lobby 4,Lift 9.6,9.4.57,Store package and send notification
+Lobby 5,Lift 8.1,8.5.05,Deliver to Door
+Lobby 5,Lift 8.2,8.5.14,Deliver to Door
+Lobby 5,Lift 8.3,8.5.24,Deliver to Door
+Lobby 5,Lift 8.3,8.5.25,Deliver to Door
+Lobby 5,Lift 8.4,8.5.34,Deliver to Door
+Lobby 5,Lift 9.2,9.5.14,Deliver to Door
+Lobby 5,Lift 9.2,9.5.15,Deliver to Door
+Lobby 5,Lift 9.3,9.5.25,Deliver to Door
+Lobby 5,Lift 9.3,9.5.26,Deliver to Door
+Lobby 5,Lift 9.4,9.5.36,Deliver to Door
+Lobby 5,Lift 9.4,9.5.37,Deliver to Door
+Lobby 5,Lift 9.5,9.5.47,Deliver to Door
+Lobby 5,Lift 9.5,9.5.48,Deliver to Door
+Lobby 5,Lift 9.6,9.5.59,Deliver to Door
+Lobby 5,Lift 8.2,8.5.15,Store package and send notification
+Lobby 5,Lift 8.4,8.5.35,Store package and send notification
+Lobby 5,Lift 8.5,8.5.44,Store package and send notification
+Lobby 5,Lift 8.5,8.5.45,Store package and send notification
+Lobby 5,Lift 9.1,9.5.04,Store package and send notification
+Lobby 5,Lift 9.6,9.5.58,Store package and send notification
