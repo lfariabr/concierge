@@ -6,10 +6,10 @@ def display():
     st.header("📦 Apartment Lift Finder")
     apt = st.text_input("Enter Apartment Number (e.g., 9.2.31):")
 
-    # DEBUG TOOL – See full table (optional toggle)
-    if st.checkbox("🔍 Show full apartment data (debug mode)"):
-        df = pd.read_csv("data/apartments.csv")
-        st.dataframe(df)
+    # # DEBUG TOOL – See full table (optional toggle)
+    # if st.checkbox("🔍 Show full apartment data (debug mode)"):
+    #     df = pd.read_csv("data/apartments.csv")
+    #     st.dataframe(df)
 
     if apt:
         lift, notes = get_lift_info(apt.strip())

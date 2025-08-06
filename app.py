@@ -7,7 +7,8 @@ from views import rosterView, deliveryView
 st.set_page_config(
     page_title="Concierge Dashboard",
     layout="wide",
-    page_icon="🛎️"
+    page_icon="🛎️",
+    initial_sidebar_state="collapsed"
 )
 
 # ---- App Title ----
@@ -16,7 +17,7 @@ st.markdown("Select a tool from the sidebar to get started.")
 
 # ---- Sidebar Navigation ----
 menu = st.sidebar.radio("📂 Select a screen:", [
-    "📅 Roster Availability",
+    # "📅 Roster Availability",
     "📦 Apartment Lift Finder"
 ])
 
