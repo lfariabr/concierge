@@ -3,8 +3,8 @@ from services.deliveryService import get_lift_info
 import pandas as pd
 
 def display():
-    st.header("📦 Apartment Lift Finder")
-    apt = st.text_input("Enter Apartment Number (e.g., 9.2.31):")
+    st.header("📦 Apt Lift Finder")
+    apt = st.text_input("Enter the apartment number (e.g., 9.2.31):")
 
     # # DEBUG TOOL – See full table (optional toggle)
     # if st.checkbox("🔍 Show full apartment data (debug mode)"):
