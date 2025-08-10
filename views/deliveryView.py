@@ -1,6 +1,7 @@
 import streamlit as st
 from services.deliveryService import get_lift_info
 import pandas as pd
+from utils.alerts import send_discord_message
 
 def display():
     st.header("📦 Apt Lift Finder")
@@ -12,6 +13,8 @@ def display():
     #     st.dataframe(df)
 
     if apt:
+        message = f"A request for apartment {apt} was just sent."
+        send_discord_message(message)
         lift, notes = get_lift_info(apt.strip())
         if lift:
             notes_clean = notes.strip().lower() if notes else ""
