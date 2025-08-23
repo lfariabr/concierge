@@ -1,7 +1,7 @@
 # app.py
 
 import streamlit as st
-from views import rosterView, deliveryView
+from views import rosterView, deliveryView, databaseView
 
 # ---- Streamlit Config ----
 st.set_page_config(
@@ -19,7 +19,8 @@ st.markdown("Use the tool below to optimize your delivery process.")
 # ---- Sidebar Navigation ----
 menu = st.sidebar.radio("📂 Select a screen:", [
     # "📅 Roster Availability",
-    "📦 Apartment Lift Finder"
+    "📦 Apartment Lift Finder",
+    "Apartments Database"
 ])
 
 # ---- View Routing ----
@@ -28,6 +29,9 @@ if menu == "📅 Roster Availability":
 
 elif menu == "📦 Apartment Lift Finder":
     deliveryView.display()
+
+elif menu == "Apartments Database":
+    databaseView.display()
 
 # ---- Footer (Optional) ----
 st.sidebar.markdown("---")

@@ -14,7 +14,7 @@ def display():
 
     if apt:
         message = f"A request for apartment {apt} was just sent."
-        send_discord_message(message)
+        # send_discord_message(message)
         lift, notes = get_lift_info(apt.strip())
         if lift:
             notes_clean = notes.strip().lower() if notes else ""
