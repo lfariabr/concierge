@@ -14,8 +14,8 @@ def display():
     #     st.dataframe(df)
 
     if apt:
-        # message = f"A request for apartment {apt} was just sent."
-        # send_discord_message(message)
+        message = f"A request for apartment {apt} was just sent."
+        send_discord_message(message)
         # lift, notes = get_lift_info(apt.strip())
         lift, notes, hints = get_lift_info_from_db(apt.strip())
         if lift:
@@ -23,17 +23,17 @@ def display():
 
             # === DELIVER TO DOOR ===
             if "deliver to door" in notes_clean:
-                st.success(f"Action: **Deliver to door.**\n> Use **{lift}** for apartment **{apt}**")
+                st.success(f"👉 **Deliver to door.**\n> Use **{lift}** for apartment **{apt}**")
                 show_hints(hints)
                 
             # === INFO FOR "STORE + DELIVER IF REQUESTED" ===
             elif "deliver if requested" in notes_clean:
-                st.info(f"**{notes}**\n> Use **{lift}** for apartment **{apt}**")
+                st.info(f"👉 {notes}\n> Use **{lift}** for apartment **{apt}**")
                 show_hints(hints)
                 
             # === NEUTRAL FOR "Store package and send notification" ===
             elif "store package and send notification" in notes_clean:
-                st.info(f"Action: **Store the package** and send notification.\n> **{lift}** for apartment **{apt}**")
+                st.info(f"👉 **Store the package** and send notification.\n> **{lift}** for apartment **{apt}**")
                 show_hints(hints)
 
             # === FALLBACK FOR OTHER NOTES ===

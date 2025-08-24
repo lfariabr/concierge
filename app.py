@@ -5,7 +5,7 @@ import streamlit as st
 # ---- Streamlit Config ----
 st.set_page_config(
     page_title="Lift Finder",
-    layout="wide",
+    layout="centered",
     page_icon="🛎️",
     initial_sidebar_state="collapsed"
 )
@@ -36,4 +36,4 @@ elif menu == "🗃️ Apt Database":
 
 # ---- Footer (Optional) ----
 st.sidebar.markdown("---")
-st.sidebar.caption("Built by luisfaria.dev 🚀")
+st.sidebar.caption("luisfaria.dev")
