@@ -4,7 +4,7 @@ import gspread
 import json
 from google.oauth2.service_account import Credentials
 
-@st.cache_data(ttl=600)  # Cache for 60 seconds (adjust as needed)
+@st.cache_data(ttl=120)  # Cache for 60 seconds (adjust as needed)
 def fetch_apartments_data():
     credentials = json.loads(st.secrets["gsheets"]["credentials"])
     spreadsheet_url = st.secrets["gsheets"]["spreadsheet_url"]
