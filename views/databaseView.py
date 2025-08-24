@@ -7,7 +7,7 @@ import json
 from google.oauth2.service_account import Credentials
 
 def display():
-    st.header("📦 Apartments Database")
+    st.header("🗃️ Apartments Database")
 
     try:
         # Get credentials from secrets
@@ -39,7 +39,7 @@ def display():
         
         df_apartments = pd.DataFrame(apartments_data[1:], columns=apartments_data[0])
 
-        st.dataframe(df_apartments)
+        st.dataframe(df_apartments, use_container_width=False, hide_index=True)
         
         # # Add form for grocery expense input
         # with st.form("grocery_form"):
